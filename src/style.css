@@ -1,0 +1,21 @@
+.allbody{
+    width: 80%;
+    margin: auto;
+}
+.layoutprofil {
+    display: flex;
+}
+
+.myimg{
+    width:176px;
+    height:209px;
+   margin-top: 3%;
+}
+.col2{
+    display: block;
+    margin-left: 20%;
+    
+}
+.bio{
+    margin-top: 10%;
+}
